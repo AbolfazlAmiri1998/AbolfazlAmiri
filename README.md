@@ -53,7 +53,7 @@ Implementation of Wigner and Q functions for various quantum states:
 Materials & Energy Research Center (MERC), Karaj
 
 **BSc in Physics**  
-[University Name]
+University of Qom, Qom
 
 ---
 
