@@ -1,4 +1,4 @@
-# 👋 Abolfazl Amiri 
+![Banner](https://github.com/AbolfazlAmiri1998/AbolfazlAmiri1998/blob/main/photo_2025-11-20_00-24-26.jpg)# 👋 Abolfazl Amiri 
 **MSc Student in Condensed Matter Physics**  
 *Materials & Energy Research Center (MERC), Karaj*
 
