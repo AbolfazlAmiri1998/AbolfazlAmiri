@@ -81,8 +81,10 @@ If you're interested in discussing:
 - Boltzmann equation and its extensions
 - Quantum physics
 
-**📧 Email:** amiriabolfazl1998@gmail.com  
-**🏢 Institution:** Materials & Energy Research Center, Karaj
+**🔬 Research & Academic:** ab.amiri@merc.ac.il  
+**💼 Personal:** amiriabolfazl1998@gmail.com  
+**🏛️ Institution:** Materials & Energy Research Center (MERC), Karaj  
+**🎓 Position:** MSc Researcher in Condensed Matter Physics
 
 ---
 
